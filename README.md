@@ -11,14 +11,18 @@
 
 # About me!   🎧✩°｡⋆⸜ :
 
+### - Mahak (she/her)
 
-
-### - Hi! I'm a second-year student at UofT
+### - Second-year student at UofT
 
 ### - Learning :
 - ✨ Python, Java, C
 - ✨ SQL
 - ✨ Unix/Linux
+
+### - Hobbies :
+- ✨ Music
+- ✨ Programming 
 
 </br>
 </br>
