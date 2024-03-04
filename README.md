@@ -61,6 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
 </div>
 
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahak-m&layout=compact)
+
 ###
 
 </br>
