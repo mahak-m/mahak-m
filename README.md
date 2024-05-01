@@ -15,7 +15,7 @@
 
 ### - About Me :
 - 🌷 Computer Science Major @ the University of Toronto
-- 🌷 Minoring in Stats and Math
+- 🌷 19 years old
 
 ### - Languages :
 - 🎀 Python
@@ -25,7 +25,8 @@
 
 ### - Hobbies :
 - 🫧 Music
-- 🫧 Programming 
+- 🫧 Programming
+- 🫧 Art 
 
 </br>
 </br>
