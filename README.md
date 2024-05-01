@@ -14,8 +14,8 @@
 ### - Mahak (she/her)
 
 ### - about me :
-- 🌷 Computer Science major @ the University of Toronto
-- 🌷 19 years old
+- ✮⋆˙ Computer Science major @ the University of Toronto
+- ✮⋆˙ 19 years old
 
 ### - my favourite languages :
 - 🎀 Python
