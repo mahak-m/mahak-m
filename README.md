@@ -18,10 +18,10 @@
 - ✮⋆˙ 19 years old
 
 ### - my favourite languages :
-- 🎀 Python
-- 🎀 Java
-- 🎀 C
-- 🎀 Javascript, HTML, CSS
+-  ⋆˚✿˖° Python
+-  ⋆˚✿˖° Java
+-  ⋆˚✿˖° C
+-  ⋆˚✿˖° Javascript, HTML, CSS
 
 ### - some hobbies :
 - ⋆˙⟡♡ music
