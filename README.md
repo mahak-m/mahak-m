@@ -24,9 +24,9 @@
 - 🎀 Javascript, HTML, CSS
 
 ### - some hobbies :
-- 🫧 music
-- 🫧 programming
-- 🫧 art 
+- ⋆˙⟡♡ music
+- ⋆˙⟡♡ programming
+- ⋆˙⟡♡ art 
 
 </br>
 </br>
