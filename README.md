@@ -17,7 +17,7 @@
 - 🌷 Computer Science Major @ the University of Toronto
 - 🌷 19 years old
 
-### - Languages :
+### - my favourite languages :
 - 🎀 Python
 - 🎀 Java
 - 🎀 C
