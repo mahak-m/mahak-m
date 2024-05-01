@@ -15,18 +15,12 @@
 
 ### - ABOUT ME
 - ⋆˙⟡♡ Computer Science major @ the University of Toronto, minoring in Math & Stats
-- ⋆˙⟡♡ 19 years old !
 
 ### - LANGUAGES 
--  ⋆˙⟡♡ Python
--  ⋆˙⟡♡ Java
--  ⋆˙⟡♡ C
--  ⋆˙⟡♡ Javascript, HTML, CSS
+-  ⋆˙⟡♡ Python, Java, C, Javascript, HTML, CSS, Bash, SQL
 
 ### - HOBBIES 
-- ⋆˙⟡♡ Music
-- ⋆˙⟡♡ Programming
-- ⋆˙⟡♡ Art 
+- ⋆˙⟡♡ Music, Programming, Art 
 
 </br>
 </br>
