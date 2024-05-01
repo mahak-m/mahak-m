@@ -13,7 +13,7 @@
 
 ### - Mahak (she/her)
 
-### - Second-year student at UofT
+### - Computer Science Major at the University of Toronto
 
 ### - Languages :
 - 🎀 Python
