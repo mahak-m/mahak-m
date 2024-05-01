@@ -23,7 +23,7 @@
 -  ⋆˚✿˖° C
 -  ⋆˚✿˖° Javascript, HTML, CSS
 
-### - some hobbies :
+### - hobbies :
 - ⋆˙⟡♡ music
 - ⋆˙⟡♡ programming
 - ⋆˙⟡♡ art 
@@ -31,7 +31,7 @@
 </br>
 </br>
 
-# Languages and Tools:
+# languages & tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -74,7 +74,7 @@
 </br>
 </br>
 
-# Contact Me:
+# contact me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mahak-mishra/" target="_blank">
