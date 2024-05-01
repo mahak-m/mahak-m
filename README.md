@@ -16,7 +16,7 @@
 ### - Second-year student at UofT
 
 ### - Learning :
-- ✨ Python, Java, C
+- 🎀Python, Java, C
 - ✨ SQL
 - ✨ Unix/Linux
 
