@@ -14,7 +14,7 @@
 ### - Mahak (she/her)
 
 ### - ABOUT ME
-- ⋆˙⟡♡ Computer Science major @ the University of Toronto, also minoring in math & stats
+- ⋆˙⟡♡ Computer Science major @ the University of Toronto, minoring in Math & Stats
 - ⋆˙⟡♡ 19 years old !
 
 ### - LANGUAGES 
