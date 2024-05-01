@@ -14,8 +14,8 @@
 ### - Mahak (she/her)
 
 ### - ABOUT ME
-- ⋆˙⟡♡ computer science major @ the University of Toronto, also minoring in math & stats
-- ⋆˙⟡♡ 19 years old
+- ⋆˙⟡♡ Computer Science major @ the University of Toronto, also minoring in math & stats
+- ⋆˙⟡♡ 19 years old !
 
 ### - LANGUAGES 
 -  ⋆˙⟡♡ Python
@@ -24,14 +24,14 @@
 -  ⋆˙⟡♡ Javascript, HTML, CSS
 
 ### - HOBBIES 
-- ⋆˙⟡♡ music
-- ⋆˙⟡♡ programming
-- ⋆˙⟡♡ art 
+- ⋆˙⟡♡ Music
+- ⋆˙⟡♡ Programming
+- ⋆˙⟡♡ Art 
 
 </br>
 </br>
 
-# languages & tools:
+# Languages & Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -74,7 +74,7 @@
 </br>
 </br>
 
-# contact me:
+# Contact Me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mahak-mishra/" target="_blank">
