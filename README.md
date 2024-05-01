@@ -16,9 +16,9 @@
 ### - Second-year student at UofT
 
 ### - Learning :
-- 🎀Python, Java, C
-- ✨ SQL
-- ✨ Unix/Linux
+- 🎀 Python, Java, C
+- 🎀 SQL
+- 🎀 Unix/Linux
 
 ### - Hobbies :
 - ✨ Music
