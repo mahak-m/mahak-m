@@ -13,8 +13,8 @@
 
 ### - Mahak (she/her)
 
-### - About Me :
-- 🌷 Computer Science Major @ the University of Toronto
+### - about me :
+- 🌷 Computer Science major @ the University of Toronto
 - 🌷 19 years old
 
 ### - my favourite languages :
@@ -23,10 +23,10 @@
 - 🎀 C
 - 🎀 Javascript, HTML, CSS
 
-### - Hobbies :
-- 🫧 Music
-- 🫧 Programming
-- 🫧 Art 
+### - some hobbies :
+- 🫧 music
+- 🫧 programming
+- 🫧 art 
 
 </br>
 </br>
