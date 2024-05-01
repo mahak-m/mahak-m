@@ -13,7 +13,7 @@
 
 ### - Mahak (she/her)
 
-### - Computer Science Major at the University of Toronto
+### - Computer Science Major @ the University of Toronto
 
 ### - Languages :
 - 🎀 Python
@@ -22,8 +22,8 @@
 - 🎀 Javascript, HTML, CSS
 
 ### - Hobbies :
-- ✨ Music
-- ✨ Programming 
+- 🫧 Music
+- 🫧 Programming 
 
 </br>
 </br>
