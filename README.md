@@ -13,17 +13,17 @@
 
 ### - Mahak (she/her)
 
-### - about me :
+### - ABOUT ME
 - ⋆˙⟡♡ computer science major @ the University of Toronto, also minoring in math & stats
 - ⋆˙⟡♡ 19 years old
 
-### - my favourite languages :
+### - LANGUAGES 
 -  ⋆˙⟡♡ Python
 -  ⋆˙⟡♡ Java
 -  ⋆˙⟡♡ C
 -  ⋆˙⟡♡ Javascript, HTML, CSS
 
-### - hobbies :
+### - HOBBIES 
 - ⋆˙⟡♡ music
 - ⋆˙⟡♡ programming
 - ⋆˙⟡♡ art 
