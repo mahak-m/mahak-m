@@ -16,7 +16,6 @@
 - ⋆˙⟡♡ Music, Programming, Art 
 
 </br>
-</br>
 
 # Languages & Tools:
 
@@ -58,7 +57,6 @@
 
 ###
 
-</br>
 </br>
 
 # Contact Me:
