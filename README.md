@@ -13,7 +13,9 @@
 
 ### - Mahak (she/her)
 
-### - Computer Science Major @ the University of Toronto
+### - About Me :
+- 🌷 Computer Science Major @ the University of Toronto
+- 🌷 Minoring in Stats and Math
 
 ### - Languages :
 - 🎀 Python
