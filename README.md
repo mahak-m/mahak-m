@@ -15,10 +15,11 @@
 
 ### - Second-year student at UofT
 
-### - Learning :
-- 🎀 Python, Java, C
-- 🎀 SQL
-- 🎀 Unix/Linux
+### - Languages :
+- 🎀 Python
+- 🎀 Java
+- 🎀 C
+- 🎀 Javascript, HTML, CSS
 
 ### - Hobbies :
 - ✨ Music
