@@ -7,7 +7,7 @@
 # ✩°｡⋆⸜ 🎧✮₊˚⊹♡
 
 ### - ABOUT ME
-- Computer Science major @ the University of Toronto, minoring in Math & Stats
+- Computer Science major @ University of Toronto, minoring in Math & Stats
 
 ### - LANGUAGES 
 - Python, Java, C, Javascript, HTML, CSS, Bash, SQL
