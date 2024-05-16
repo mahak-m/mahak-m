@@ -4,9 +4,7 @@
 <img hight="200" width="500" alt="GIF" align="center" src="https://github.com/mahak-m/imagery/blob/main/mahakm.png">
 </div>
 
-♡
-
-### ABOUT ME
+### EDUCATION
 Computer Science major @ the University of Toronto
 
 ### LANGUAGES 
