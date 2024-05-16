@@ -6,14 +6,15 @@
 
 # ✩°｡⋆⸜ 🎧✮₊˚⊹♡
 
-### - ABOUT ME
-- Computer Science major @ University of Toronto, minoring in Math & Stats
+### ABOUT ME
+Computer Science major @ University of Toronto
+Minoring in Math + English
 
-### - LANGUAGES 
-- Python, Java, C, Javascript, HTML, CSS, Bash, SQL
+### LANGUAGES 
+Python, Java, C, Javascript, HTML, CSS, Bash, SQL
 
-### - HOBBIES 
-- Music, Programming, Art 
+### HOBBIES 
+Music, Programming, Art 
 
 </br>
 
