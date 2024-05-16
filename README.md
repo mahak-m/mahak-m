@@ -4,17 +4,16 @@
 <img hight="200" width="500" alt="GIF" align="center" src="https://github.com/mahak-m/imagery/blob/main/mahakm.png">
 </div>
 
-# ✩°｡⋆⸜ 🎧✮₊˚⊹♡
+♡
 
 ### ABOUT ME
-Computer Science major @ University of Toronto
-Minoring in Math + English
+Computer Science major @ the University of Toronto
 
 ### LANGUAGES 
 Python, Java, C, Javascript, HTML, CSS, Bash, SQL
 
 ### HOBBIES 
-Music, Programming, Art 
+Music, Programming, Art, Writing
 
 </br>
 
