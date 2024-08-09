@@ -8,7 +8,7 @@
 Computer science major @ the University of Toronto (+ minoring in math and stats)
 
 ### Languages
-Python, java, C, javascript, HTML, CSS, bash, SQL
+Python, Java, C, Javascript, HTML, CSS, bash, SQL
 
 ### Hobbies
 Music, programming, art, writing
