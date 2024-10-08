@@ -4,14 +4,7 @@
 <img hight="200" width="500" alt="GIF" align="center" src="https://github.com/mahak-m/imagery/blob/main/mahakm.png">
 </div>
 
-### Education
-Computer science major @ the University of Toronto (+ minoring in math and stats)
-
-### Languages
-Python, Java, C, Javascript, HTML, CSS, bash, SQL
-
-### Hobbies
-Music, programming, art, writing
+Hi! I'm a computer science major @ the University of Toronto (+ minoring in math and stats). 
 
 </br>
 
