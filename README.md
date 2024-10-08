@@ -5,7 +5,9 @@
 </div>
 
 Hi! I'm studying CS at UofT.
+
 My LinkedIn: https://www.linkedin.com/in/mahak-mishra/
+
 My Email: mahak.mishra@mail.utoronto.ca
 
 </br>
