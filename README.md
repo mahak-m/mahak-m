@@ -4,7 +4,7 @@
 <img hight="200" width="500" alt="GIF" align="center" src="https://github.com/mahak-m/imagery/blob/main/mahakm.png">
 </div>
 
-Hi! I'm studying CS at UofT.
+Hi! Welcome to my GitHub :)
 
 My LinkedIn: https://www.linkedin.com/in/mahak-mishra/
 
