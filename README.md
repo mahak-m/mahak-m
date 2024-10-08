@@ -4,7 +4,7 @@
 <img hight="200" width="500" alt="GIF" align="center" src="https://github.com/mahak-m/imagery/blob/main/mahakm.png">
 </div>
 
-Hi! I'm a computer science major @ the University of Toronto (+ minoring in math and stats). 
+Hi! I'm studying CS at UofT.
 
 </br>
 
