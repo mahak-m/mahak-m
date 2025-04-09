@@ -6,6 +6,10 @@
 
 Hi! Welcome to my GitHub :)
 
+I'm a third-year Computer Science student at the University of Toronto. I'm an IT intern at Chemtrade Logistics and a previous full-stack developer intern at SSnC.
+
+I love programming, and am passionate about using technology to drive solutions that positively impact communities.
+
 My LinkedIn: https://www.linkedin.com/in/mahak-mishra/
 
 My Email: mahak.mishra@mail.utoronto.ca
