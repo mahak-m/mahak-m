@@ -1,9 +1,5 @@
 # 
 
-<div align="center">
-<img hight="200" width="500" alt="GIF" align="center" src="https://github.com/mahak-m/imagery/blob/main/mahakm.png">
-</div>
-
 Hi! Welcome to my GitHub :)
 
 I'm a third-year Computer Science student at the University of Toronto. I'm an IT intern at Chemtrade Logistics and a previous full-stack developer intern at SSnC.
