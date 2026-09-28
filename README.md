@@ -2,12 +2,11 @@
 
 > *Mahak Mishra (she/her)*
 
-✿ **University of Toronto**  
-♡ **GTA**  
+✿ **Toronto, Ontario, Canada**  
 
 ---
 
-### ୨୧ a little about me
+### ୨୧ A Little About Me
 
 I'm a 4th-year Computer Science student at UofT, with experience
 across **data & technology, software development, and QA/testing**.
@@ -20,7 +19,7 @@ while figuring out what kinds of problems I enjoy solving most.
 
 ---
 
-### ✿ things I work with
+### ✿ Things I Work With
 
 **languages**  
 `Python` · `Java` · `JavaScript` · `TypeScript` · `C` · `SQL` · `Bash`
@@ -39,7 +38,7 @@ while figuring out what kinds of problems I enjoy solving most.
 
 ---
 
-### ❀ things I've built
+### ❀ Things I've Built
 
 **01 — Machine Learning**  
 A multi-class classification project where I engineered features from
