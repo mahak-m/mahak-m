@@ -1,6 +1,6 @@
 # ୨୧ Hi, I'm Mahak
 
-> *computer science student • builder • always learning something new*
+> *computer science major • english minor
 
 ✿ **University of Toronto** — Computer Science  
 ⌁ **Toronto, Canada**  
