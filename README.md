@@ -1,4 +1,4 @@
-# ୨୧ Hi, I'm Mahak
+# Hi, I'm Mahak! ୨୧
 
 > *computer science major • english minor
 
@@ -57,14 +57,6 @@ enterprise IT procurement portal.
 **04 — Software Development**  
 Full-stack applications using Angular, TypeScript, Spring Boot,
 and SQL.
-
----
-
-### 𓆸 currently
-
-learning       machine learning + computer vision
-building       projects that let me actually use what I learn
-exploring      data · technology · QA
 
 ---
 
