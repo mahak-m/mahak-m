@@ -2,9 +2,8 @@
 
 > *computer science major • english minor
 
-✿ **University of Toronto** — Computer Science  
-⌁ **Toronto, Canada**  
-♡ Interested in **data · technology · QA · machine learning**
+✿ **University of Toronto**  
+♡ **Toronto, Canada**  
 
 ---
 
@@ -13,7 +12,7 @@
 I'm a 4th-year Computer Science student at UofT, with experience
 across **data & technology, software development, and QA/testing**.
 
-I've worked on things like automated testing, data-driven tools,
+I've worked on things like testing, data-driven tools,
 full-stack applications, and machine learning projects.
 
 Right now, I'm exploring **machine learning, AI, and computer vision**
