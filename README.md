@@ -1,10 +1,8 @@
 # 
 
-hi welcome to my github!
+LinkedIn: https://www.linkedin.com/in/mahak-mishra/
 
-my linkedin: https://www.linkedin.com/in/mahak-mishra/
-
-my email: mahak.mishra@mail.utoronto.ca
+Email: mahak.mishra@mail.utoronto.ca
 
 <!--
 **mahak-m/mahak-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
