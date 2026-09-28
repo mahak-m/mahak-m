@@ -1,6 +1,6 @@
 # Hi, I'm Mahak! ୨୧
 
-> *Mahak Mishra (she/her)
+> *Mahak Mishra (she/her)*
 
 ✿ **University of Toronto**  
 ♡ **GTA**  
