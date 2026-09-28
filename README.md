@@ -1,48 +1,75 @@
-# Hi, I'm Mahak 👋
+# ୨୧ Hi, I'm Mahak
 
-**Computer Science @ University of Toronto**  
-Interested in **data, technology, QA, and machine learning.**
+> *computer science student • builder • always learning something new*
 
-I'm a 4th-year Computer Science student at UofT with experience across
-**data & technology, software development, and QA/testing**.
+✿ **University of Toronto** — Computer Science  
+⌁ **Toronto, Canada**  
+♡ Interested in **data · technology · QA · machine learning**
 
-I've worked on everything from testing and data-driven tools
-to full-stack applications and machine learning projects.
+---
 
-### 🛠️ What I Work With
+### ୨୧ a little about me
 
-**Languages**  
-`Python` `Java` `JavaScript` `TypeScript` `C` `SQL` `Bash`
+I'm a 4th-year Computer Science student at UofT, with experience
+across **data & technology, software development, and QA/testing**.
 
-**Data & ML**  
-`Pandas` `NumPy` `Scikit-learn` `Power BI` `Excel`
+I've worked on things like automated testing, data-driven tools,
+full-stack applications, and machine learning projects.
 
-**Development**  
-`Angular` `Spring Boot` `React` `Node.js` `REST APIs`
+Right now, I'm exploring **machine learning, AI, and computer vision**
+while figuring out what kinds of problems I enjoy solving most.
 
-**Testing & QA**  
-`JUnit` `Jest` `Jasmine` `Karma` `Pytest` `Postman` `JMeter`
+---
 
-**Tools**  
-`Git` `GitHub` `Linux` `Jira` `Figma`
+### ✿ things I work with
 
-### 📌 A Few Things I've Worked On
+**languages**  
+`Python` · `Java` · `JavaScript` · `TypeScript` · `C` · `SQL` · `Bash`
 
-- **Machine Learning** — built a multi-class classification model from
-  scratch and compared it against other ML approaches
-- **QA & Testing** — built automated unit, integration, and performance
-  testing suites
-- **Data & Technology** — created data-driven tools, dashboards, and
-  workflow automation
-- **Software Development** — contributed to production full-stack
-  applications using Angular, TypeScript, Spring Boot, and SQL
+**data + ML**  
+`Pandas` · `NumPy` · `Scikit-learn` · `Power BI` · `Excel`
 
-### 🌱 Currently Learning
+**development**  
+`Angular` · `Spring Boot` · `React` · `Node.js` · `REST APIs`
 
-I'm currently exploring **machine learning, AI, and computer vision**
-while continuing to build my experience in data, technology, and QA.
+**testing + QA**  
+`JUnit` · `Jest` · `Jasmine` · `Karma` · `Pytest` · `Postman` · `JMeter`
 
-### 📫 Find Me
+**tools**  
+`Git` · `GitHub` · `Linux` · `Jira` · `Figma`
+
+---
+
+### ❀ things I've built
+
+**01 — Machine Learning**  
+A multi-class classification project where I engineered features from
+survey data, implemented Logistic Regression from scratch, and
+compared it with other ML models.
+
+**02 — QA & Testing**  
+Automated unit, integration, and performance testing across
+production software projects.
+
+**03 — Data & Technology**  
+Data-driven tools, dashboards, workflow automation, and an
+enterprise IT procurement portal.
+
+**04 — Software Development**  
+Full-stack applications using Angular, TypeScript, Spring Boot,
+and SQL.
+
+---
+
+### 𓆸 currently
+
+learning       machine learning + computer vision
+building       projects that let me actually use what I learn
+exploring      data · technology · QA
+
+---
+
+### ♡ let's connect
 
 [**LinkedIn**](https://linkedin.com/in/mahak-mishra) ·
 [**Email**](mailto:mahak.mishra@mail.utoronto.ca)
