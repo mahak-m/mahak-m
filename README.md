@@ -1,9 +1,9 @@
 # Hi, I'm Mahak! ୨୧
 
-> *computer science major • english minor
+> *Mahak Mishra (she/her)
 
 ✿ **University of Toronto**  
-♡ **Toronto, Canada**  
+♡ **GTA**  
 
 ---
 
