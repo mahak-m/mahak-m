@@ -59,7 +59,7 @@ and SQL.
 
 ---
 
-### ♡ let's connect
+### ♡ Let's Connect
 
 [**LinkedIn**](https://linkedin.com/in/mahak-mishra) ·
 [**Email**](mailto:mahak.mishra@mail.utoronto.ca)
