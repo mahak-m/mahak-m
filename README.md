@@ -26,4 +26,4 @@ Building a system to identify and distinguish large language models based on the
 
 ### ✿ Let's Connect
 
-[LinkedIn](https://linkedin.com/in/mahak-mishra) · [GitHub](https://github.com/mahak-m) · [Email](mailto:mahak.mishra@mail.utoronto.ca)
+[LinkedIn](https://linkedin.com/in/mahak-mishra) · [Email](mailto:mahak.mishra@mail.utoronto.ca)
