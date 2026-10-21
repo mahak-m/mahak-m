@@ -1,65 +1,33 @@
-# Hi, I'm Mahak! ୨୧
+# Hi, I'm Mahak! 
 
-> *Mahak Mishra (she/her)*
+*Mahak Mishra · she/her*
 
-✿ **Toronto, Ontario, Canada**  
+✿ Toronto, Ontario, Canada
 
----
+I'm a Computer Science student at the **University of Toronto**, with experience in data and technology, QA/testing, and software development through internships at SS&C, Chemtrade, and UPP.
 
-### ୨୧ A Little About Me
+### ✿ Tech Stack
 
-I'm a 4th-year Computer Science student at UofT, with experience
-across **data & technology, software development, and QA/testing**.
+**Languages:** Python · Java · JavaScript · TypeScript · C · SQL · Bash
 
-I've worked on things like testing, data-driven tools,
-full-stack applications, and machine learning projects.
+**Data & Machine Learning:** Pandas · NumPy · Scikit-learn · Power BI · Excel
 
-Right now, I'm exploring **machine learning, AI, and computer vision**
-while figuring out what kinds of problems I enjoy solving most.
+**Development:** Angular · React · Spring Boot · Node.js · REST APIs
 
----
+**Testing & QA:** JUnit · Jest · Jasmine · Pytest · Postman · Apache JMeter
 
-### ✿ Things I Work With
+**Tools:** Git · GitHub · Linux · Jira · Figma
 
-**languages**  
-`Python` · `Java` · `JavaScript` · `TypeScript` · `C` · `SQL` · `Bash`
+### ୨୧ What I'm Working On
 
-**data + ML**  
-`Pandas` · `NumPy` · `Scikit-learn` · `Power BI` · `Excel`
+**✿ Robust Multimodal Vehicle Detection**
 
-**development**  
-`Angular` · `Spring Boot` · `React` · `Node.js` · `REST APIs`
+Exploring radar and LiDAR-based vehicle detection in foggy weather for a machine learning and computer vision project. The goal is to investigate how combining sensor data can improve detection performance under challenging weather conditions.
 
-**testing + QA**  
-`JUnit` · `Jest` · `Jasmine` · `Karma` · `Pytest` · `Postman` · `JMeter`
+**✿ LLM Identification**
 
-**tools**  
-`Git` · `GitHub` · `Linux` · `Jira` · `Figma`
-
----
-
-### ❀ Things I've Built
-
-**01 — Machine Learning**  
-A multi-class classification project where I engineered features from
-survey data, implemented Logistic Regression from scratch, and
-compared it with other ML models.
-
-**02 — QA & Testing**  
-Automated unit, integration, and performance testing across
-production software projects.
-
-**03 — Data & Technology**  
-Data-driven tools, dashboards, workflow automation, and an
-enterprise IT procurement portal.
-
-**04 — Software Development**  
-Full-stack applications using Angular, TypeScript, Spring Boot,
-and SQL.
-
----
+Building a system to identify and distinguish large language models based on their response patterns. The project explores model fingerprinting, response classification, and detecting when a model's outputs no longer match its expected identity.
 
 ### ♡ Let's Connect
 
-[**LinkedIn**](https://linkedin.com/in/mahak-mishra) ·
-[**Email**](mailto:mahak.mishra@mail.utoronto.ca)
+[LinkedIn](https://linkedin.com/in/mahak-mishra) · [GitHub](https://github.com/mahak-m) · [Email](mailto:mahak.mishra@mail.utoronto.ca)
