@@ -20,10 +20,6 @@ I'm a Computer Science student at the **University of Toronto**, with experience
 
 Exploring radar and LiDAR-based vehicle detection in foggy weather for a machine learning and computer vision project. The goal is to investigate how combining sensor data can improve detection performance under challenging weather conditions.
 
-**LLM Identification**
-
-Building a system to identify and distinguish large language models based on their response patterns. The project explores model fingerprinting, response classification, and detecting when a model's outputs no longer match its expected identity.
-
 ### ✿ Let's Connect
 
 [LinkedIn](https://linkedin.com/in/mahak-mishra) · [Email](mailto:mahak.mishra@mail.utoronto.ca)
