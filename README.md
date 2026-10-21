@@ -1,6 +1,6 @@
 # Hi, I'm Mahak Mishra (she/her)!
 
-I'm a Computer Science student at the **University of Toronto**, with experience in data and technology, QA/testing, and software development through internships at SS&C, Chemtrade, and UPP.
+I'm a Computer Science student at the **University of Toronto**, with experience in full stack software development, data analytics and QA/testing through internships at SS&C, Chemtrade, and UPP.
 
 ### ✿ Tech Stack
 
